@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyNDQy2Ht0F7bH97Ia/MDDJA",
+      "authorship_tag": "ABX9TyN23/S9wbcew7iJIHQlVCEj",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -182,10 +182,32 @@
         "\n",
         "</body>\n",
         "</html>\n",
+        "\n",
+        "\n",
+        "\n",
+        "```\n",
+        "# これはコードとして書式設定されます\n",
+        "```\n",
         "\n"
       ],
       "metadata": {
         "id": "Y0lZqyyIY58x"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "EfOfIyIrr6Cl"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "46EjOzi7r67a"
       }
     }
   ]
